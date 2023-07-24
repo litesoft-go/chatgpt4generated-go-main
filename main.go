@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/litesoft-go/chatgpt4generated-go-calculator/calculator"
-	"github.com/litesoft-go/chatgpt4generated-go-formatter/formatter"
-	"github.com/litesoft-go/chatgpt4generated-go-printer/printer"
+	"github.com/litesoft-go/chatgpt4generated-go-calculator"
+	"github.com/litesoft-go/chatgpt4generated-go-formatter"
+	"github.com/litesoft-go/chatgpt4generated-go-printer"
 )
 
 func main() {

@@ -1,0 +1,6 @@
+github.com/litesoft-go/chatgpt4generated-go-calculator v1.0.0 h1:lVjj7DkCa0pOebYWeXR6VuB6mWpP9QXGAtQGnzwozh4=
+github.com/litesoft-go/chatgpt4generated-go-calculator v1.0.0/go.mod h1:SUBq1HewbAccbPFrn0t0DOEwOIuu4V6TFxlV/BnaSLU=
+github.com/litesoft-go/chatgpt4generated-go-formatter v1.0.0 h1:oPczel0k5FkzAVy8k+7+nm97QRP1MBwMrZYJf/ps8fM=
+github.com/litesoft-go/chatgpt4generated-go-formatter v1.0.0/go.mod h1:ftRqv7AhonNcIYHawjTwKqJyitYVxDhKfIK1NO5rtKw=
+github.com/litesoft-go/chatgpt4generated-go-printer v1.0.0 h1:2uugLvGq+05kHp8fMqlyBTs3dSdqJ9gb2/28y3+4Yes=
+github.com/litesoft-go/chatgpt4generated-go-printer v1.0.0/go.mod h1:PZnG9zwqlnd3xWtsDCKP4Y4myA2dSg8RRn34fWfNi6c=
