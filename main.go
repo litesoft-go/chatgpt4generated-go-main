@@ -9,5 +9,6 @@ import (
 func main() {
 	sum := calculator.Add(5, 10)
 	formattedSum := formatter.FormatFloat(float64(sum))
-	printer.PrintString(formattedSum)
+	printer.PrintString("5 + 10 = ")
+	printer.PrintStringln(formattedSum)
 }
